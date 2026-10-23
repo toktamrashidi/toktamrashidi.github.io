@@ -5,7 +5,7 @@
 title: Toktam Rashidi # the website title (if blank, full name will be used instead)
 first_name: Toktam
 middle_name: 
-last_name: Rashidi (she/her)
+last_name: Rashidi
 description: PhD candidate in astrophysics at McMaster University. Studying radio transients, modelling periodic variability in maser lightcurves.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
