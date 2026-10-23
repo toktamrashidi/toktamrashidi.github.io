@@ -1,8 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 email: rashit4@mcmaster.ca
-orcid_id: 0009-0007-2978-7985 # your ORCID iD
-scholar_userid: EoyoGucAAAAJ # your Google Scholar ID, or delete this line if you don't have a profile
+orcid_id: 0009-0007-2978-7985
+scholar_userid: EoyoGucAAAAJ
 github_username: toktamrashidi
-rss_icon: false
-# cv_pdf: /assets/pdf/cv.pdf  # uncomment once we add your CV file
+cv_pdf: /assets/pdf/cv.pdf
