@@ -55,9 +55,9 @@ cv:
         start_date: 2023
         end_date: Present
         highlights:
-          - Developed one- and three-dimensional superradiance solvers for modelling astronomical radio flares, including transverse effects in coherent emission.
-          - Developed a numerical package for solving a three-level Maxwell–Bloch system to study parallel transitions.
-          - Developed Python-based period-analysis pipelines to identify and categorize periodic maser variability.
+          - Contributed in developing a Maxwell-Bloch solver to model flares in maser-hosting regions.
+          - Contributed in developing a numerical package for solving a three-level Maxwell–Bloch system to study parallel transitions.
+          - Developed a period-analysis pipelines to identify and categorize periodic maser variability.
           - Applied superradiance models to maser-hosting star-forming regions, working toward the first superradiance catalogue in astrophysics.
 
       - company: University of Tehran
