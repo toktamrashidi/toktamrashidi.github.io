@@ -9,7 +9,6 @@ profile:
   image: new_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>she/her</p>
     <p>ABB-151, McMaster University</p>
     <p>Hamilton, Ontario, Canada</p>
 
