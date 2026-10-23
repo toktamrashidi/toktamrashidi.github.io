@@ -6,10 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Toktam
 middle_name: 
 last_name: Rashidi
-contact_note: >
+contact_note: 
   You can even add a little note about which of these is the best way to reach you.
-description: > 
-PhD candidate in astrophysics at McMaster University. Studying radio transients, modelling periodic variability in maser lightcurves.
+description: PhD candidate in astrophysics at McMaster University. Studying radio transients, modelling periodic variability in maser lightcurves.
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -111,8 +110,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -357,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Toktam]
+  first_name: [Rashidi]
 
   style: apa
   locale: en
