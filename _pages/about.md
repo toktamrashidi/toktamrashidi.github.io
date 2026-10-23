@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>she/her</p>
-    <p>ABB-151</p>
-    <p>McMaster University</p>
+    <p>ABB-151, McMaster University</p>
     <p>Hamilton, Ontario, Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
