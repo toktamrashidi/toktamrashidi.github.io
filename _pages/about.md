@@ -25,8 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I was born in Iran and studied physics at the University of Tehran, where I completed my BSc and an MSc on cosmology before moving to Canada for my PhD. I am now a PhD candidate in the Department of Physics and Astronomy at McMaster University, working with Dr. Fereshteh Rajabi on coherent light–matter interactions in star-forming regions. I model periodic flaring in 6.7 GHz methanol masers, asking whether Dicke's superradiance — cooperative emission from molecules radiating in phase — can account for flare shapes that maser amplification alone struggles to explain.
 
-I am a PhD candidate in the Department of Physics and Astronomy at McMaster University, working with Fereshteh Rajabi on coherent light–matter interactions in star-forming regions.
-
-Some 6.7 GHz methanol masers flare on remarkably regular cycles, and the shapes of those flares are hard to account for with maser amplification alone. My work asks whether Dicke superradiance — the cooperative emission that arises when molecules radiate in phase rather than independently — can explain what the monitoring data actually show. I fit the observed lightcurves with our model (which is based on Maxwell-Bloch equations), and ask how nearly in phase the molecules can be in each radiating clump of gas. The more in phase the molecules are, the more superradiant their emission would be.
-I am working toward the first catalogue of superradiance candidates in astrophysics, in collaboration with monitoring teams in Poland, Japan and South Africa.
+I expect to defend in September 2027 and am applying for postdoctoral positions in radio astronomy and coherent emission.
