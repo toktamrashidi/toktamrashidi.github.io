@@ -353,8 +353,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
   scholar:
-  last_name: [Rashidi]
-  first_name: [Toktam, T.]
+    last_name: [Rashidi]
+    first_name: [Toktam, T.]
 
   style: apa
   locale: en
