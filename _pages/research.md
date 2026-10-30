@@ -33,7 +33,7 @@ and fitting the result to monitoring data.
 Real molecules are not two-level systems. With more levels available, population can
 leak along parallel transitions, and that leakage competes with the build-up of
 coherence that superradiance requires. Whether a region ends up superradiant depends
-on which process wins. I study theses multi-level systems and the conditions under which each regime of radiation can dominate.
+on which process wins. I study these multi-level systems and the conditions under which each regime of radiation can dominate.
 
 ## Toward a catalogue of superradiance candidates
 
