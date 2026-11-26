@@ -25,6 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I was born in Iran and studied physics at the University of Tehran, where I completed a BSc and an MSc in cosmology before moving to Canada for my PhD. I am now a PhD candidate in the Department of Physics and Astronomy at McMaster University, working with Dr. Fereshteh Rajabi on coherent light–matter interactions in star-forming regions. I model periodic flaring in 6.7 GHz methanol masers, asking whether Dicke's superradiance — cooperative emission from molecules radiating in phase — can account for flare shapes that maser amplification alone struggles to explain.
 
 I expect to defend in September 2027 and am applying for postdoctoral positions in radio astronomy and coherent emission.
