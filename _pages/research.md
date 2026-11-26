@@ -2,43 +2,70 @@
 layout: page
 permalink: /research/
 title: research
-description: Coherent emission and periodic variability in star-forming regions.
+description: Natural lasers, cosmic flares, and molecules that learn to shine together.
 nav: true
 nav_order: 1
 ---
 
-Methanol masers trace the earliest stages of high-mass star formation, and some of
-them flare on strikingly regular cycles — periods of weeks to months that repeat for
-years. The flares themselves are the puzzle: their shapes, their rise and decay
-times, and the relationship between flares in different transitions are not always
-easy to account for by changes in maser amplification alone.
+Massive stars are born deep inside cold clouds of gas and dust, hidden from ordinary
+telescopes. Radio waves can escape those clouds, and some of the brightest radio
+signals coming out of them are **masers**: the microwave cousins of lasers, produced
+naturally by molecules in space. Methanol masers at 6.7 GHz are especially useful,
+because they appear only around young, massive stars, so wherever we find one we know
+a big star is in the making.
 
-My work asks what else might be happening, and in particular whether the molecules in
-a radiating region are emitting independently or cooperatively.
+## Flares that keep time
 
-## Coherence in star-forming regions
+Maser light curves often change over time, and that variability can be periodic,
+quasi-periodic or irregular. I focus mainly on periodic variability. What drives the
+periodicity is still unknown, and it is likely to be a different mechanism in
+different regions. The timing of the flares tells us that some regular process is at
+work, but the *shape* of each flare (how fast it rises, how fast it fades, and how
+flares in different parts of the source line up) carries information about what the
+molecules themselves are doing. That shape is what I study.
 
-In an ordinary maser, molecules radiate independently and the emission is amplified
-along the line of sight. On the other hand, we have Dicke's superradiance, where the molecules become correlated and
-radiate in phase, which changes both the intensity and the timing of what we see. The
-difference shows up in the shape of a flare, which makes lightcurves a way of testing
-which process dominates.
+## What is superradiance?
 
-I model flaring lightcurves from maser-hosting regions by solving the Maxwell–Bloch equations for a radiating region
-and fitting the result to monitoring data. 
+Imagine a large crowd clapping. If everyone claps at their own pace, you hear a steady
+patter. If the crowd falls into sync, the sound arrives as loud, sharp bursts. Molecules
+can behave the same way. In an ordinary maser each molecule emits on its own, and the
+signal is simply amplified as it travels through the gas. But under the right
+conditions the molecules can fall into step and release their energy together. This is
+called **superradiance**, first predicted by Robert Dicke in 1954: a cooperative burst
+that is brighter, faster, and differently shaped than anything the same molecules would
+produce independently, often followed by a characteristic "ringing" as the burst dies
+away.
 
+Superradiance is well established in the laboratory. My question is whether it also
+happens in space, and whether it is the missing piece needed to explain the flare
+shapes that ordinary maser amplification struggles to reproduce.
 
-## Competing channels in multi-level systems
+## How I test it
 
-Real molecules are not two-level systems. With more levels available, population can
-leak along parallel transitions, and that leakage competes with the build-up of
-coherence that superradiance requires. Whether a region ends up superradiant depends
-on which process wins. I study these multi-level systems and the conditions under which each regime of radiation can dominate.
+The physics of light and molecules acting on each other is captured by the
+**Maxwell–Bloch equations**. In the simplest version of the model, the gas is treated
+as an ensemble of two-level molecules in a long, extended region. Because these
+equations describe light–matter interaction in general, they contain both the ordinary
+maser and superradiance as limiting cases, and every solution lies somewhere on the
+spectrum between the two. I solve the equations numerically and compare the predicted
+flares with years of monitoring data from radio telescopes run by our collaborators.
+Finding where a fitted solution sits on that spectrum tells us how much coherence
+developed between the molecules while they were radiating.
+
+## When molecules have more than one way out
+
+Real molecules are more complicated than the simple two-level picture in textbooks. An
+excited molecule can often lose its energy through more than one route, and every
+molecule that "leaks" away down a side channel is one fewer taking part in the
+collective burst. Whether a region becomes superradiant or stays an ordinary maser
+depends on which process wins that race. I study these multi-level systems to work out
+the conditions under which each kind of emission takes over, and how to tell them apart
+in real data.
 
 ## Toward a catalogue of superradiance candidates
 
-I am working toward the first systematic catalogue of
-superradiance candidates in astrophysics, combining period-analysis pipelines applied
-to maser monitoring data with the modelling above, in collaboration with monitoring
-teams in Poland, Japan and South Africa. 
+In Dr. Rajabi's group at McMaster University, together with our collaborators on the monitoring
+teams, we are building the first systematic catalogue of superradiance candidates in
+astrophysics. It will let us ask not just *whether* superradiance happens in space,
+but how often, and in what kinds of environments.
 
