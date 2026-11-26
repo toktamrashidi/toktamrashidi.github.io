@@ -20,7 +20,7 @@ Maser light curves often change over time, and that variability can be periodic,
 quasi-periodic or irregular. I focus mainly on periodic variability. What drives the
 periodicity is still unknown, and it is likely to be a different mechanism in
 different regions. The timing of the flares tells us that some regular process is at
-work, but the *shape* of each flare (how fast it rises, how fast it fades, and how
+work, but the _shape_ of each flare (how fast it rises, how fast it fades, and how
 flares in different parts of the source line up) carries information about what the
 molecules themselves are doing. That shape is what I study.
 
@@ -66,6 +66,6 @@ in real data.
 
 In Dr. Rajabi's group at McMaster University, together with our collaborators on the monitoring
 teams, we are building the first systematic catalogue of superradiance candidates in
-astrophysics. It will let us ask not just *whether* superradiance happens in space,
+astrophysics. It will let us ask not just _whether_ superradiance happens in space,
 but how often, and in what kinds of environments.
 
